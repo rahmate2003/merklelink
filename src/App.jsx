@@ -1,4 +1,4 @@
-import LinktreeClone from './components/LinktreeClone'
+import LinktreeClone from './components/LinkTreeClone'
 
 function App() {
   return (
