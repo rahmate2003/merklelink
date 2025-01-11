@@ -54,8 +54,8 @@ const LinktreeClone = () => {
         <div className="min-h-screen bg-gradient-to-br from-gray-700 via-blue-800 to-sky-500 flex flex-col items-center justify-center p-4 animate-gradient-xy">
             <div className="w-full max-w-md backdrop-blur-lg bg-white/15 p-8 rounded-2xl shadow-2xl">
                 {/* Profile Section */}
-                <div className="text-center mb-8 animate-fade-in-up">
-                    <div className="mb-8 relative inline-block group">
+                <div className="text-center mb-4 animate-fade-in-up">
+                    <div className="mb-4 relative inline-block group">
                         <div className="w-40 h-40 md:w-48 md:h-48 rounded-full overflow-hidden border-4 border-white/20 shadow-2xl mx-auto transform transition duration-500 group-hover:scale-105 relative z-10">
                             <img
                                 src="/profile.png"
@@ -71,7 +71,7 @@ const LinktreeClone = () => {
                     <h1 className="text-3xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-blue-200 to-sky-200 mb-2 animate-text">
                         Rahmat Wahyudi
                     </h1>
-                    <p className="text-gray-300 mb-6 animate-fade-in-up"></p>
+                    <p className="text-gray-100 mb-0 animate-fade-in-up">Iya Saya, Ada Apa?</p>
                 </div>
 
                 {/* Links Section */}
