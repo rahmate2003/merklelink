@@ -9,28 +9,13 @@ MerkleLink is a web-based application built with React and Vite that allows user
 ### 3.1. Project Setup
 Create a new project using Vite and React templates:
 ``bash
-npm create vite@latest merklelink --template react
-cd merklelink
+git clone
 npm install
 ```
-### 3.2. Installing Additional Dependencies
-To add icons and styling, install `react-icons` and other required dependencies:
-```bash
-npm install react-icons
-```
-### 3.3. Run the Project
+### 3.2. Run 
 After installing the dependencies, you can run the application with the following command:
 ```bash
 npm run dev
-```
-## Project Structure
-```
-/src
-  /components
-    LinkItem.jsx # Display one link
-    Header.jsx # Display profile header
-  App.jsx
-  index.css # Styling for the application
 ```
 ## Developing the App
 - **Adding Links**: You can add links by adding a new object inside the `links` array in the `App.jsx` file.
