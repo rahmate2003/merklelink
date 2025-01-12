@@ -4,7 +4,6 @@ MerkleLink is a web-based application built with React and Vite that allows user
 ## Features
 - **Easy to add links**: Users can add multiple links that will be displayed on their profile page.
 - Responsive design**: The app is designed to display well on various devices, including mobile phones.
-- Icon support**: Each link can display an icon for easy navigation.
 ## Project Setup
 ### 3.1. Project Setup
 Create a new project using Vite and React templates:
