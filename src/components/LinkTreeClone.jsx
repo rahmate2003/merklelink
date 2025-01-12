@@ -59,7 +59,7 @@ const LinktreeClone = () => {
                         <div className="w-40 h-40 md:w-48 md:h-48 rounded-full overflow-hidden border-4 border-white/20 shadow-2xl mx-auto transform transition duration-500 group-hover:scale-105 relative z-10">
                             <img
                                 src="/profile.png"
-                                alt="Rahmat Wahyudi"
+                                alt="Your Name"
                                 className="w-full h-full object-cover transition duration-500 group-hover:rotate-6"
                             />
                         </div>
@@ -69,7 +69,7 @@ const LinktreeClone = () => {
                         <div className="absolute -inset-2 rounded-full border-2 border-blue-400/50 animate-spin-slow"></div>
                     </div>
                     <h1 className="text-3xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-blue-200 to-sky-200 mb-2 animate-text">
-                        Rahmat Wahyudi
+                        Your Name
                     </h1>
                     <p className="text-gray-100 mb-0 animate-fade-in-up">Iya Saya, Ada Apa?</p>
                 </div>
