@@ -7,7 +7,7 @@ MerkleLink is a web-based application built with React and Vite that allows user
 ## Project Setup
 ### 3.1. Project Setup
 Create a new project using Vite and React templates:
-``bash
+```bash
 git clone
 npm install
 ```
@@ -17,7 +17,5 @@ After installing the dependencies, you can run the application with the followin
 npm run dev
 ```
 ## Developing the App
-- **Adding Links**: You can add links by adding a new object inside the `links` array in the `App.jsx` file.
+- **Adding Links**: You can add links by adding a new object inside the `links` array in the `LinkTreeClone.jsx` file.
 - **Customization 
-
-Translated with DeepL.com (free version)
