@@ -56,13 +56,13 @@ const LinktreeClone = () => {
                 {/* Profile Section */}
                 <div className="text-center mb-4 animate-fade-in-up">
                     <div className="mb-4 relative inline-block group">
-                        <div className="w-40 h-40 md:w-48 md:h-48 rounded-full overflow-hidden border-4 border-white/20 shadow-2xl mx-auto transform transition duration-500 group-hover:scale-105 relative z-10">
-                            <img
-                                src="/profiles.png"
-                                alt="Rahmat Wahyudi"
-                                className="w-full h-full object-cover transition duration-500 group-hover:rotate-6"
-                            />
-                        </div>
+                      <div className="w-40 h-40 md:w-48 md:h-48 rounded-full overflow-hidden border-4 border-white/20 shadow-2xl mx-auto transform transition duration-500 group-hover:scale-105 relative z-10">
+                        <img
+                            src="/profile.png"
+                            alt="Rahmat Wahyudi"
+                            className="w-full h-full object-cover transition duration-500 group-hover:rotate-6"
+                        />
+                    </div>
                         {/* Multiple animated ring effects */}
 
                         <div className="absolute inset-0 rounded-full border-4 border-blue-500/50 animate-pulse"></div>
